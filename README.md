@@ -11,7 +11,7 @@ Los pasos para hacerlos disponibles en google collab son los siguientes:
 
 1. Estando logueado en la cuenta de Kaggle, irse a Settings y dar click en "Create New Token":  
 
-![image](https://drive.google.com/drive/u/0/folders/1nDfTDRgJ-XHv3vHaipiL2QMWkbs1w5N)
+![image](https://drive.google.com/file/d/1VluW1mNdUfwYvKH63tgBThPCq9yNy6wB/view?usp=drive_link)
 
 Después de dar click, se descargará un archivo llamado Kaggle.json
 
