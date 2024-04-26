@@ -35,4 +35,10 @@ Luego dar click en el boton "Elegir archivos" para cargar el archivo .json
   !kaggle competitions download -c allstate-claims-severity
   !unzip allstate-claims-severity.zip
 ```
+Entrega 2.
+
+Enlace del video 
+
+
+
 
