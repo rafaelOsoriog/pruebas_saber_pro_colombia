@@ -44,10 +44,10 @@ Enlace del video
 
 ## Entrega 3.
 
-Enlace del video 
+Enlace del video entrega final 
 
-modificar
-(https://www.youtube.com/watch?v=Kc0XdnLQy5I)
+
+(https://www.youtube.com/watch?v=Wo6natkWl0E)
 
 
 
